@@ -67,27 +67,33 @@ Taxi_Ride_Analysis_Power_BI/
 
 ## 📸 Dashboard Preview
 
-### 📊 Overview Dashboard
+### 📸 Overview Dashboard
 
 ![Dashboard](Screenshot1.png)
 
-### 🚗 Vehicle Analysis
+### 📊 Overall Analysis
 
 ![Dashboard](Screenshot2.png)
 
-### 💰 Revenue Analysis
+### 🚗 Vehicle Type Analysis
 
 ![Dashboard](Screenshot3.png)
 
-### ❌ Cancellation Analysis
+### 💰 Revenue Analysis
 
 ![Dashboard](Screenshot4.png)
 
-### ⭐ Ratings Insights
+### ❌ Cancellation Insights
 
 ![Dashboard](Screenshot5.png)
 
-*(Add or reorder screenshots as needed)*
+### ⭐ Ratings Insights
+
+![Dashboard](Screenshot6.png)
+
+### 💰 Summary 
+
+![Dashboard](Screenshot7.png)
 
 ---
 
