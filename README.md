@@ -9,7 +9,7 @@
 This project focuses on analyzing taxi ride booking data using Power BI dashboards.
 The goal is to transform raw data into **interactive visual insights** that help understand business performance and user behavior.
 
-Power BI dashboards are widely used to analyze ride trends, revenue, and operational efficiency in real-world transportation systems. Microsoft Power BI Desktop ([Ashish The Analyst][1])
+Power BI dashboards are widely used to analyze ride trends, revenue, and operational efficiency in real-world transportation systems.
 
 ---
 
@@ -33,7 +33,7 @@ This project helps answer questions like:
 * What are the common cancellation reasons? ❌
 * How do customers behave across different time periods? 📅
 
-Such dashboards are commonly used to analyze ride demand, customer trends, and revenue distribution. ([Ashish The Analyst][1])
+Such dashboards are commonly used to analyze ride demand, customer trends, and revenue distribution.
 
 ---
 
@@ -134,5 +134,3 @@ Feel free to fork this repo and improve it 🚀
 If you like this project, give it a ⭐ on GitHub!
 
 ---
-
-[1]: https://www.ashishtheanalyst.com/single-project?utm_source=chatgpt.com "OLA-BI-Project | Ashish The Analyst"
